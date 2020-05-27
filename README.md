@@ -32,6 +32,6 @@ The third option in main menu is exit. If ‘3’ is entered in the main menu, t
 
 Output
 
+![](CRICKET%20SCORECARD%20PROJECT/OUTPUT%20IMAGES/cricket-score-sheet-menu.jpg)
 
-
-
+![](CRICKET%20SCORECARD%20PROJECT/OUTPUT%20IMAGES/cricket-score-sheet-data2.jpg)
